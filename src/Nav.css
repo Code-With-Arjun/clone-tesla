@@ -1,0 +1,16 @@
+.p-menubar {
+    border: 0 !important;
+    background: transparent !important;
+}
+
+.card {
+    background: transparent !important;
+}
+
+.p-menubar-end {
+    margin-left: 0 !important;
+}
+
+.p-menubar-root-list {
+    margin: auto !important;
+}
